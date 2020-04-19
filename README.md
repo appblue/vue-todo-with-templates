@@ -1,6 +1,6 @@
 # Vue.js 2.x TODO Application with Templates
 
-This is basic Vue.js 2.x application based on the app provided by Evan You for http://todomvc.com/ project, but rewritten for `vue-cli` basic application.
+This is basic Vue.js 2.x application based on the app provided by Evan You for http://todomvc.com/ project, but rewritten in order to fit `vue-cli` basic skeleton application.
 
 ## Project setup
 ```
