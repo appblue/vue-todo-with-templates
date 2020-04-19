@@ -1,7 +1,7 @@
 <template>
   <section class="todoapp" v-cloak>
     <header class="header">
-      <h1>assets</h1>
+      <h1>todos</h1>
       <input
         class="new-todo"
         autofocus
